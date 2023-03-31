@@ -6,7 +6,6 @@
 - 📒 Studying Rust and PHP for now...:D
 
 ![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=christiancotefacil&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-![Christian Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christiancotefacil&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 #### Some of my favorite languages are:
 
