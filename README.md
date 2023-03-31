@@ -3,10 +3,10 @@
 - 🏭 Actually I'm working with Python 🐍 in backend, Linux 🐧, AWS λ , Devops 🔨 and other interesting stuffs...
 - 😊 My actual job is on CTF Software company on the Jr. Developer position :D
 - 😊 I like to stay with my family 👪 and friends 🤝, play the guitar 🎸 (ps.: I'm not so good =p) etc...
-- 📒 Studying Rust and PHP for now...
+- 📒 Studying Rust and PHP for now...:D
 
-![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=christianmartorano&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-![Christian Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christianmartorano&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=christiancotefacil&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Christian Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christiancotefacil&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 #### Some of my favorite languages are:
 
